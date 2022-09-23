@@ -1,0 +1,54 @@
+RU:
+открой файл type.kittm.dll
+впиши туда
+ui или cmd
+
+ui - с интерфейсом
+cmd - запуск из консоли
+потом открой port.kittm.dll
+и впиши туда любое число от 1111 до 8887
+после этого запусти start.exe
+
+EN:
+open file type.kittm.dll
+write there
+ui or cmd
+
+ui - with interface
+cmd - run from console
+then open port.kittm.dll
+and enter any number from 1111 to 8887 there
+after that run start.exe
+
+UA:
+відкрий файл type.kittm.dll
+впиши туди
+ui або cmd
+
+ui - з інтерфейсом
+cmd - запуск із консолі
+потім відкрий port.kittm.dll
+і впиши туди будь-яке число від 1111 до 8887
+після цього запусти start.exe
+
+BY:
+адкрый файл type.kittm.dll
+упішы туды
+ui або cmd
+
+ui - з інтэрфейсам
+cmd - запуск з кансолі
+потым адкрый port.kittm.dll
+і ўпішы туды любы лік ад 1111 да 8887
+пасля гэтага запусці start.exe
+
+UZ:
+type.kittm.dll faylini oching
+u erda yozing
+ui yoki cmd
+
+ui - interfeys bilan
+cmd - konsoldan ishga tushirish
+keyin port.kittm.dll faylini oching
+va u erda 1111 dan 8887 gacha bo'lgan istalgan raqamni kiriting
+Shundan so'ng start.exe faylini ishga tushiring
