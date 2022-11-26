@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: yellow;
+    font-size: 75px;
+     position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+.url {
+    color: yellow;
+    font-size: 85px;
+}
